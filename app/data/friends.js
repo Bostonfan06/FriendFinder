@@ -1,4 +1,4 @@
-var friendsArray = [{
+var friends = [{
     name: "Johnny Depp",
     sex: "male",
     photo: "./images/johnnydepp.jpg",
@@ -66,4 +66,4 @@ var friendsArray = [{
     ]
 }]
 
-module.exports = friendsArray;
+module.exports = friends;
