@@ -1,0 +1,11 @@
+body {
+    background: url("../images/hollywood.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed
+}
+
+h3, h4, a {
+    color: white;
+    display: block;
+}
