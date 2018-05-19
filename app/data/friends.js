@@ -1,7 +1,6 @@
 var friends = [{
     name: "Johnny Depp",
     sex: "male",
-    photo: "./images/johnnydepp.jpg",
     scores: [
         1,
         5,
@@ -12,7 +11,6 @@ var friends = [{
 },
 {
     name: "Cameron Diaz",
-    photo: "./images/camerondiaz.jpg",
     scores: [
         3,
         5,
@@ -23,7 +21,6 @@ var friends = [{
 },
 {
     name: "Brad Pitt",
-    photo: "./images/bradpitt.jpg",
     scores: [
         5,
         3,
@@ -34,7 +31,6 @@ var friends = [{
 },
 {
     name: "Paris Hilton",
-    photo: "./images/parishilton.jpg",
     scores: [
         2,
         1,
@@ -45,7 +41,6 @@ var friends = [{
 },
 {
     name: "Megan Fox",
-    photo: "./images/meganfox.jpg",
     scores: [
         3,
         4,
@@ -56,7 +51,6 @@ var friends = [{
 },
 {
     name: "Dwayne Johnson",
-    photo: "./images/dwaynejohnson.jpg",
     scores:[
         5,
         4,
